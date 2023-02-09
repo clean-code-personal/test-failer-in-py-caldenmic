@@ -1,4 +1,4 @@
-
+from alerter_functions import *
 
 failure_count = alert_in_celcius(400.5)
 failure_count = alert_in_celcius(303.6)
