@@ -1,5 +1,5 @@
 import unittest
-from prod import size
+from tshirts_production import size
 
 class TestTshirts(unittest.TestCase):
     
