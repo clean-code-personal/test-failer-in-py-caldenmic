@@ -1,5 +1,5 @@
 import unittest
-from prod import *
+from alerter_production import *
 
 class TestAlerter(unittest.TestCase):
     def test_failure_count(self):
